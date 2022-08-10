@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --grey: #eff3f4;
+}
+
+.App {
+  height: 100vh;
+  padding: 0px 300px;
+  display: grid;
+  border-top: 1px solid var(--grey);
+  grid-template:
+    "left-menu main-menu right-menu" 1fr /
+    300px 1fr 350px;
+}

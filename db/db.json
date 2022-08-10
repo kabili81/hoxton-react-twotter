@@ -1,0 +1,37 @@
+{
+    "tweets": [
+      {
+        "id": 1,
+        "text": "mood",
+        "user": {
+          "name": "cat with confusing auras",
+          "username": "cat_auras",
+          "profileImage": "https://pbs.twimg.com/profile_images/1538894151973892097/N7caQPBe_400x400.jpg"
+        }, 
+        "image": "https://pbs.twimg.com/media/FZt0NpHaQAESPqq?format=jpg&name=medium"
+      },
+      {
+        "id": 2,
+        "text": "Nest token is listed on the Coinbase Exchange",
+        "user": {
+          "name": "Point Network",
+          "username": "PointNetwork",
+          "profileImage": "https://pbs.twimg.com/profile_images/1410652853505507333/_c4X90qV_400x400.jpg"
+        },
+        "image": "https://pbs.twimg.com/media/FYvbJsnUsAALt8w?format=jpg&name=large"
+      }
+    ],
+  
+    "trends": [
+      {
+        "name": "Russian",
+        "tweets": 323,
+        "id": 1
+      },
+      {
+        "name": "Ukraine",
+        "tweets": 424,
+        "id": 2
+      }
+    ]
+  }
